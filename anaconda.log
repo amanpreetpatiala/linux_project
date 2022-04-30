@@ -1,0 +1,14 @@
+16:23:57,588 DEBUG anaconda: setting locale to: en_US.UTF-8
+16:24:00,758 WARN anaconda: /usr/lib/python2.7/site-packages/meh/ui/gui.py:23: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+
+16:24:08,089 DEBUG anaconda: Detected primary monitor: 1024x768 95dpix 96dpiy
+16:24:08,239 DEBUG anaconda: Entered hub: InitialSetupMainHub
+16:24:09,589 DEBUG anaconda: Dump missing interfaces in NetworkControlBox initialize method
+16:24:09,990 DEBUG anaconda: network: GUI, not adding virbr0
+16:24:10,462 DEBUG anaconda: network: GUI, device configuration added: connection 648923e3-4fc3-4687-9c49-732840c0519b device enp0s3
+16:24:10,510 DEBUG anaconda: network: GUI, not adding connection 648923e3-4fc3-4687-9c49-732840c0519b, already in list
+16:24:10,685 DEBUG anaconda: network: GUI, not adding virbr0
+16:24:10,994 ERR anaconda: Initialization controller for hub InitialSetupMainHub expected but missing.
+16:24:18,537 DEBUG anaconda: Entered spoke: EULAspoke
+16:24:25,883 DEBUG anaconda: Left spoke: EULAspoke
